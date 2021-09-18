@@ -45,7 +45,7 @@
 	"files": [],
 	"dependencies": {
 		"await-notify": "1.0.1",
-		"binary-file": "^0.2.1",
+		"binary-file": "^0.2.3",
 		"gif-writer": "^0.9.3",
 		"glob": "^7.1.6",
 		"jsonc-parser": "^2.2.1",
